@@ -24,7 +24,7 @@ Your API key will look something like this: AIzaSyAtpnKGX13bTgmx0l_gQeatYvdWvY_w
 
 
 
----
+----
 
 Happy coding!
 
